@@ -1,1 +1,2 @@
 # MoA-Prediction
+This project is largely based on a new active Kaggle competition, Mechanisms of Action (MoA) Prediction, which is presented by Laboratory for Innovation Science at Harvard (LISH) with the goal of advancing drug development through improvements to MoA prediction algorithms. If successful, hopefully I can help to develop an algorithm to predict a compound’s MoA given its cellular signature, thus helping scientists advance the drug discovery process.
